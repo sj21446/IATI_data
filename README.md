@@ -1,5 +1,5 @@
 # IATI_data
-This repository is based on code written with Python's Pandas software library https://pandas.pydata.org/ which is used for data manipulation and analysis. Pandas is really good for working with openly available datasets in CSV or JSON format, and can be used together with Excel. 
+This repository is based on code written with Python's Pandas software library https://pandas.pydata.org/ which is used for tabular (rows and columns) data manipulation and analysis. Pandas is really good for working with openly available datasets in CSV or JSON format, and can be used together with Excel. 
 
 This repository includes a walkthrough notebook: IATI_DFID_DATA.ipynb which has text explanations and basic Pandas code snippets that you can use to get started.
 
